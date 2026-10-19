@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="wonderhoi.png" width="100%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
+  <img src="wonderhoi.png" width="60%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
 </p>
 <p align="center">
   <img src="shuki.jpg" width="60%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
